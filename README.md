@@ -64,4 +64,4 @@ There is a small quantization error:
 
 This repo features a 4x4 systolic matrix multiplication engine integrated with an ARM CPU and accessible via Python. It includes block matrix multiplication to handle matrices larger than 4x4.
 
-<img src="https://github.com/stateless-loop-58/ai-chip-starter/blob/main/image/system_fpga.jpg" width="800" />
+<img src="https://github.com/stateless-loop-58/ai-chip-starter/blob/main/image/system_fpga.jpg" width="600" />
