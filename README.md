@@ -5,7 +5,7 @@ Starter baseline for an AI chip hackathon.
 - This baseline is optional for the AI chip hackathon. If you already have your own hardware architecture, feel free to ignore this template and use your custom design instead.
 - Note that hardware acceleration performance is not guaranteed, as this repository serves only as a starter baseline. 
 
-# A. Quantization
+# Quantization
 
 For symmetric scale-based quantization, we represent an FP32
 value using an INT8 integer plus a scale.
